@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.community{
+    display: flex;
+    justify-content: space-between;
+}
+
+.desc{
+    width: 40%;
+}
+
+.image{
+    width: 50%;
+}
+
+img{
+    width: 100%;
+}
